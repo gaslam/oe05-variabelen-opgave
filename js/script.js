@@ -21,10 +21,9 @@ function Initieer() {
   btnVoornaam = document.querySelector("#btnVoornaam");
   btnGoesting = document.querySelector("#btnGoesting");
   
-  // DEES BEGRIJP IK NIE
-  //naam = txtNaam.value;
-  //voorNaam = txtVoornaam.value;
-  //goesting = txtGoesting.value;
+  naam = txtNaam.value;
+  voorNaam = txtVoornaam.value;
+  goesting = txtGoesting.value;
 
   // 4. Eventlisteners toevoegen
 
